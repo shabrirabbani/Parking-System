@@ -1,0 +1,14 @@
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/bin/Debug/net8.0/ParkingSystem
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/bin/Debug/net8.0/ParkingSystem.deps.json
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/bin/Debug/net8.0/ParkingSystem.runtimeconfig.json
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/bin/Debug/net8.0/ParkingSystem.dll
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/bin/Debug/net8.0/ParkingSystem.pdb
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/obj/Debug/net8.0/ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/obj/Debug/net8.0/ParkingSystem.AssemblyInfoInputs.cache
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/obj/Debug/net8.0/ParkingSystem.AssemblyInfo.cs
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/obj/Debug/net8.0/ParkingSystem.csproj.CoreCompileInputs.cache
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/obj/Debug/net8.0/ParkingSystem.dll
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/obj/Debug/net8.0/refint/ParkingSystem.dll
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/obj/Debug/net8.0/ParkingSystem.pdb
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/obj/Debug/net8.0/ParkingSystem.genruntimeconfig.cache
+/Users/shabri/Documents/Enigma/project utk tes/PARKING-SYSTEM/ParkingSystem/obj/Debug/net8.0/ref/ParkingSystem.dll
